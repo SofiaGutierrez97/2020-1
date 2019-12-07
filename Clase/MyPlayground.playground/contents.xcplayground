@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Struct'/>
+        <page name='struct Temperature nuevos inits calculados'/>
+        <page name='struct Temperature cojn CustomConvertibleString'/>
+        <page name='Observers'/>
+        <page name='PropiedadesDeTipo   STATIC'/>
+    </pages>
+</playground>
